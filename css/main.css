@@ -1,3 +1,9 @@
+#imgResultado{
+    width: 90px;
+}
+.search-active{
+    display: block;
+}
 .loader,
 .loader:before,
 .loader:after {
